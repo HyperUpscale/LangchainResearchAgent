@@ -1,7 +1,11 @@
-fastapi[all]
+wheel
+fastapi
+typing
+streamlit
+fastapi
 openai
 python-dotenv
-pydantic==1.*
+pydantic
 langchain
 bs4
 tiktoken
